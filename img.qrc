@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>C:/Users/Feedback/Desktop/icons8-account-50.png</file>
+        <file>C:/Users/Feedback/Desktop/icons8-phone-100.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>C:/Users/Feedback/Desktop/8530246.webp</file>
+    </qresource>
+</RCC>
